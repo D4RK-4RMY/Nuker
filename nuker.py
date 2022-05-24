@@ -29,7 +29,7 @@ LG = '\033[37m' # lightgrey
 def Spinner():
 	l = ['|', '/', '-', '\\']
 	for i in l+l+l:
-		sys.stdout.write(f"""\r[\x1b[36m+\x1b[36m\x1B[37m] Loading NUKERR... [{i}]""")
+		sys.stdout.write(f"""\r[\x1b[36m+\x1b[36m\x1B[37m] Loading NUKER... [{i}]""")
 		sys.stdout.flush()
 		time.sleep(0.1)
 
