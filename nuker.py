@@ -29,7 +29,7 @@ LG = '\033[37m' # lightgrey
 def Spinner():
 	l = ['|', '/', '-', '\\']
 	for i in l+l+l:
-		sys.stdout.write(f"""\r[\x1b[36m+\x1b[36m\x1B[37m] Loading HWID... [{i}]""")
+		sys.stdout.write(f"""\r[\x1b[36m+\x1b[36m\x1B[37m] Loading NUKERR... [{i}]""")
 		sys.stdout.flush()
 		time.sleep(0.1)
 
@@ -43,16 +43,6 @@ progressbar = tqdm([2,4,6,8,9,10])
 for item in progressbar:
     sleep(0.1)
     progressbar.set_description(' Loading: ')
-# from colorama import Fore
-# from tqdm import tqdm, trange
-# from time import sleep
-# import os
-# os.system("title Scaping Proxies...")
-# print(f"{Fore.LIGHTCYAN_EX}")
-# progressbar = tqdm([2,4,6,8,9,10,11,12,13,14,15])
-# for item in progressbar:
-#     sleep(0.1)
-#     progressbar.set_description(' Scaping Proxies... ')
 from colorama import Fore
 from tqdm import tqdm, trange
 from time import sleep
