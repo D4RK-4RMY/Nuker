@@ -45,7 +45,7 @@
 # Demo 
 
 Youtube : https://youtu.be/k1ZUhxLlnuE
-
+Discord : https://discord.gg/AmjbkceYvv
 
 ### Development by
 
