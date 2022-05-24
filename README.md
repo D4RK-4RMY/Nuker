@@ -8,7 +8,7 @@
   </p>
   
   <p align="center">
-  <img src="https://github.com/D4RK-4RMY/Nuker/blob/main/img/logo.png" alt=" Logo" />
+  <img src="https://github.com/D4RK-4RMY/Nuker/blob/main/logo.png" alt=" Logo" />
 </p>
 
   <br>
@@ -31,7 +31,7 @@
 
  <p align="center">
 
-  <img src="https://github.com/D4RK-4RMY/Nuker/blob/main/img/nuker.png" alt="ss"/>
+  <img src="https://github.com/D4RK-4RMY/Nuker/blob/main/nuker.png" alt="ss"/>
 
 </p>
   
